@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "0714",
+      "title": "first title",
+      "price": "200",
+      "desc": "desc for first book"
+    },
+    {
+      "id": "ecce",
+      "title": "second book",
+      "price": "3000",
+      "desc": "desc for second book"
+    },
+    {
+      "id": "a55c",
+      "title": "third title",
+      "price": "1203",
+      "desc": "desc for third book"
+    },
+    {
+      "id": "1dd9",
+      "title": "asdasd",
+      "price": "sadasdasd",
+      "desc": "asdasdasdasdsad"
+    }
+  ]
+}
